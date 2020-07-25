@@ -1,5 +1,5 @@
 # Transparencia-gdf
-## Trabalho de exploração de dados do portal da Transparência do Distrito Federal
+## Trabalho de exploração de dados do portal da Transparência do Distrito Federal :floppy_disk: :mag_right: 
 
 ### Trabalho de pós graduação – IESB – Inteligencia Artificial
 
