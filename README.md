@@ -1,17 +1,21 @@
 # Transparencia-gdf
-Trabalho de exploração de dados do portal da Transparência do Distrito Federal
+##Trabalho de exploração de dados do portal da Transparência do Distrito Federal
 
-## Trabalho de pós graduação – IESB – Inteligencia Artificial
+### Trabalho de pós graduação – IESB – Inteligencia Artificial
 
 ### Professor Fabio Buiati
-### Disciplina DATA VISUALIZATION
+#### Disciplina DATA VISUALIZATION
+#### Aluno Richard Nixon 
 
-#### Gerar 3 gráficos de sua escolha
-### Entregável:
-#### Jupyter: Enviar arquivo Jupyter no formato: matricula.ipynb até dia 24/02/2020 (sexta)
+
+Entregável:
+Jupyter: Enviar arquivo Jupyter no formato: matricula.ipynb até dia 24/02/2020 (sexta)
 
 Arquivo formatado: https://drive.google.com/file/d/1u3T3Fq3T6vj2wrE3GNpboEzKWQaEFxPa/view?usp=sharing
 
+
+
+#### Gerar 3 gráficos de sua escolha
 
 <p align="center">
   <img alt="Top 100" src="https://github.com/richardnixonafj/transparencia-gdf/blob/master/top_100_maiores_gdf.gif">
@@ -28,7 +32,7 @@ Arquivo formatado: https://drive.google.com/file/d/1u3T3Fq3T6vj2wrE3GNpboEzKWQaE
 
 ## :rocket: Tecnologias
 
-Neste projeto tem as seguintes tecnologias:
+Neste projeto foram utilizadas as seguintes Tecnologias:
 
 -  [Jupyter](https://jupyter.org/)
 -  [Plotly](https://plotly.com/)
