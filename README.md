@@ -4,10 +4,11 @@ Trabalho de exploração de dados do portal da Transparência do Distrito Federa
 ## Trabalho de pós graduação – IESB – Inteligencia Artificial
 
 ### Professor Fabio Buiati
+### Disciplina DATA VISUALIZATION
 
 #### Gerar 3 gráficos de sua escolha
 ### Entregável:
-#### Jupyter: Enviar arquivo Jupyter no formato: matricula.ipynb até dia 24/02/2020 (sexta) para buiati@gmail.com
+#### Jupyter: Enviar arquivo Jupyter no formato: matricula.ipynb até dia 24/02/2020 (sexta)
 
 Arquivo formatado: https://drive.google.com/file/d/1u3T3Fq3T6vj2wrE3GNpboEzKWQaEFxPa/view?usp=sharing
 
